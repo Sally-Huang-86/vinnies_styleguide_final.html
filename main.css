@@ -59,6 +59,13 @@ body {
 }
 /*Primary and Secondary*/
 
+/*Colour Section change*/
+.colourPalettes h2 {
+    font-weight: 700;
+    font-size: 42px;
+}
+/*Colour Section change*/
+
 /*State Colours*/
 .info {
     background-color: #2f80ed;
@@ -106,6 +113,9 @@ body {
 /*grey colours*/
 
 /* Typography CSS */
+/*Typography CSS Change*/
+
+/*Typography CSS Original*/
 .type_container {
     display: inline-block;
     margin: 20px;
@@ -182,3 +192,17 @@ body {
 .sectionHead {
     border-bottom: 8px solid #dddddd;
 }
+
+/*SH_Add up*/
+/*Typography section Heading table*/
+/*.font_container_SH_1 {
+    flot: left;
+    wdith: 50%;
+    padding: 10px;
+    height: 300px;
+}
+.font_container_SH_2 {
+    flot: right;
+    wdith: 50%;
+    padding: 10px;
+    height: 300px;
