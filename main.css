@@ -1,0 +1,184 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+/* Header Styles */
+.header {
+    background-image: url(../vinnies_styleguide_images/upsBackground.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-height: 500px;
+    height: 250px;
+    background-position: bottom;
+}
+#pageTopic {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+/*border structure*/
+
+/*border structure*/
+/* Primary Color */
+.colorContainer {
+    display: inline-block;
+    margin: 15px;
+}
+.swatch {
+    height: 200px;
+    width: 170px;
+    /*border: 1px solid black;*/
+}
+.hexCode {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid black;
+    border-top: none;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+.title {
+    text-align: center;
+    border: 1px solid black;
+    border-top: none;
+    border-bottom: none;
+}
+
+/*Primary and Secondary*/
+.blue1 {
+    background-color: #b9d9f5;
+}
+.blue2 {
+    background-color: #99c1db;
+}
+.blue3 {
+    background-color: #65acdb;
+}
+.blue4 {
+    background-color: #2592db;
+}
+/*Primary and Secondary*/
+
+/*State Colours*/
+.info {
+    background-color: #2f80ed;
+}
+.success {
+    background-color: #27ae60;
+}
+.warning {
+    background-color: #e2b93b;
+}
+.error {
+    background-color: #eb5757;
+}
+/*State Colour
+*/
+
+/*black & white texts colours*/
+.black1 {
+    background-color: #000000;
+}
+.black2 {
+    background-color: #1d1d1d;
+}
+.cta {
+    background-color: #2f80ed;
+}
+.infoText {
+    background-color: #eb5757;
+}
+/*black & white texts colours*/
+
+/*grey colours*/
+.grey1 {
+    background-color: #f2f2f2;
+}
+.grey2 {
+    background-color: #c4c4c4;
+}
+.grey3 {
+    background-color: #7c8188;
+}
+.grey4 {
+    background-color: #4f4f4f;
+}
+/*grey colours*/
+
+/* Typography CSS */
+.type_container {
+    display: inline-block;
+    margin: 20px;
+}
+.large {
+    font-size: 66px;
+    margin-bottom: 15px;
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.light {
+    font-weight: 100;
+}
+.regular {
+    font-weight: 500;
+}
+.bold {
+    font-weight: 700;
+}
+.typography h1 {
+    font-weight: 900;
+    font-size: 50px;
+}
+.typography h2 {
+    font-weight: 700;
+    font-size: 42px;
+}
+.typography h3 {
+    font-weight: 700;
+    font-size: 34px;
+}
+.typography h4 {
+    font-size: 26px;
+}
+
+/* UI Elements */
+.button {
+    display: inline-block;
+    padding: 15px;
+    margin: 15px;
+    width: 150px;
+    font-size: 14px;
+    text-align: center;
+    color: white;
+}
+.primary {
+    background-color: #2b459a;
+}
+.success {
+    background-color: #8abe48;
+}
+.danger {
+    background-color: #f84848;
+}
+
+.info {
+    background-color: #0099fa;
+}
+.primaryActive {
+    background-color: #3a66b7;
+}
+.successActive {
+    background-color: #668c35;
+}
+.dangerActive {
+    background-color: #ad4848;
+}
+.warningActive {
+    background-color: #ba7a43;
+}
+.infoActive {
+    background-color: #4386ba;
+}
+.sectionHead {
+    border-bottom: 8px solid #dddddd;
+}
